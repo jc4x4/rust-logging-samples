@@ -1,4 +1,5 @@
 mod env_logger;
+mod log4rs;
 
 #[cfg(test)]
 mod tests {

@@ -9,7 +9,12 @@ edition = "2018"
 [dependencies]
 env_logger = "0.8"
 log = "0.4"
+log4rs = "1.0"
 
 [[bin]]
 name = "env_logger"
 path = "src/env_logger.rs"
+
+[[bin]]
+name = "log4rs"
+path = "src/log4rs.rs"
