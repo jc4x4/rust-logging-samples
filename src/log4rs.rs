@@ -6,6 +6,7 @@ use log4rs::append::console::ConsoleAppender;
 use log4rs::config::{Appender, Root};
 use log4rs::Config;
 
+#[allow(dead_code)]
 fn main() {
     let stdout = ConsoleAppender::builder().build();
 

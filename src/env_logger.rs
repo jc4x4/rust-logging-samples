@@ -3,6 +3,7 @@ use log::error;
 use log::info;
 use log::warn;
 
+#[allow(dead_code)]
 fn main() {
     env_logger::init();
     debug!("Mary has a little lamb");
