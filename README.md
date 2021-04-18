@@ -1,5 +1,7 @@
 # rust-logging-samples
-An overview of rust's logging libraries. Provide a minimalistic set up for different logging libraries with the first four lines of `Mary has a little lamb`.
+
+
+An overview of rust's logging libraries. Provide a minimalistic set up for different logging libraries with the first four lines of `Mary has a little lamb`. See [Logging in Rust](https://medium.com/nerd-for-tech/logging-in-rust-e529c241f92e?source=friends_link&sk=a192567f131d4684c8e03da2891ba4cc) for more background information.
 
 ## Logging samples by libraries
 
